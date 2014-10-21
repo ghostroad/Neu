@@ -1,0 +1,8 @@
+- add else clause to if
+- fix assignment to free variables
+- figure out return statements in function bodies and loops and conditionals
+- fix while loop syntax (eliminate "end" reserved word)
+- add list and hash data type
+- write code test in Neu
+- figure out how to show pattern match failures better
+- make semicolon a statement terminator

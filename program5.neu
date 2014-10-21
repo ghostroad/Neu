@@ -1,0 +1,1 @@
+whatever = {a| return a + 5}

@@ -1,0 +1,7 @@
+n = 1
+numtimes = 500
+while n < numtimes
+n = n + 1
+print "danielle loves paczek"
+print " ... and rhody too!"
+end

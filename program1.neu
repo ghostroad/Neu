@@ -1,0 +1,4 @@
+b = 13
+print a + b
+a = 8
+print a * b
